@@ -1,2 +1,2 @@
-# desktop-gtk3-dev
-Experiments with GTK-3
+# commuter-notify
+Never miss your ride again!  Linux desktop notifier.  
